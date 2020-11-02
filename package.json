@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/typeorm": "^7.1.4",
+    "@nestjsx/crud": "^4.6.2",
+    "@nestjsx/crud-typeorm": "^4.6.2",
+    "pg": "^8.4.2",
+    "typeorm": "^0.2.28"
+  }
+}
